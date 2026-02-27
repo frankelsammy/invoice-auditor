@@ -1,5 +1,8 @@
 .env
 __pycache__/
 *.pyc
+.DS_Store
 
 invoices
+accounts.json
+month_to_month.xlsx
